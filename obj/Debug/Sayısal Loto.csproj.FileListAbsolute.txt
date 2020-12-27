@@ -1,0 +1,9 @@
+O:\Udemy\Udemy C# Projeleri\Sayısal Loto\Sayısal Loto\bin\Debug\Sayısal Loto.exe.config
+O:\Udemy\Udemy C# Projeleri\Sayısal Loto\Sayısal Loto\bin\Debug\Sayısal Loto.exe
+O:\Udemy\Udemy C# Projeleri\Sayısal Loto\Sayısal Loto\bin\Debug\Sayısal Loto.pdb
+O:\Udemy\Udemy C# Projeleri\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal_Loto.Form1.resources
+O:\Udemy\Udemy C# Projeleri\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal_Loto.Properties.Resources.resources
+O:\Udemy\Udemy C# Projeleri\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal Loto.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Projeleri\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal Loto.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Projeleri\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal Loto.exe
+O:\Udemy\Udemy C# Projeleri\Sayısal Loto\Sayısal Loto\obj\Debug\Sayısal Loto.pdb
